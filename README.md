@@ -1,7 +1,18 @@
 # UHK-macros
 
-
 Screenshots of my UHK v2 setup and associated Smart macros. "Dumb" macros I've not put up.
+
+
+* **$onInit.md** - initialisation of the keyboard
+* **CapsShift** - use double tap shift for capslock
+* **FN2** - FN2 layer activation
+* **FNUndo** - Fallback from FNx layers
+* **Runtime** - Record or playback runtime macros
+
+
+
+
+
 
 <img width="1866" alt="image" src="https://user-images.githubusercontent.com/860018/197738013-1f1238ad-8ee5-4f55-bdf8-27ca8f0a44a4.png">
 
