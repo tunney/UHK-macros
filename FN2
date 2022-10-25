@@ -1,0 +1,10 @@
+# FN2
+
+When bound key is pressed and hold (e.g. FN+2) activates FN2 layer until released.
+
+If bound key is double tapped then activates FN2 layer until fallback macro activated
+
+```
+holdLayer fn2
+ifDoubletap toggleLayer fn2
+```
