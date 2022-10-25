@@ -1,0 +1,9 @@
+# Runtime
+
+Records or plays a runtime macro depending on whether shift is held or not.
+
+
+```
+ifShift recordMacro #key
+ifNotShift playMacro #key
+``
