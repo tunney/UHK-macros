@@ -1,0 +1,10 @@
+# CapsShift
+
+On MacOs use double tap short to turn on/off capslock
+
+###
+holdKey iLS-
+ifNotDoubletap break
+pressKey capsLock
+delayUntil 400
+releaseKey capsLock
