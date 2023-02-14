@@ -15,9 +15,8 @@ Screenshots of my UHK v2 setup and associated Smart macros. "Dumb" macros I've n
 
 
 
+<img width="1866" alt="image" src="https://user-images.githubusercontent.com/860018/218808602-5984a6c2-2847-419c-a915-4ea59e5abc69.png">
 
-
-<img width="1866" alt="image" src="https://user-images.githubusercontent.com/860018/197738013-1f1238ad-8ee5-4f55-bdf8-27ca8f0a44a4.png">
 
 <img width="1893" alt="image" src="https://user-images.githubusercontent.com/860018/197738065-66a18e74-2616-4102-bcf2-e4e822baf9cd.png">
 
