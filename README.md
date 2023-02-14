@@ -8,6 +8,9 @@ Screenshots of my UHK v2 setup and associated Smart macros. "Dumb" macros I've n
 * **FN2** - FN2 layer activation
 * **FNUndo** - Fallback from FNx layers
 * **Runtime** - Record or playback runtime macros
+* **CapsWord** - Space + turn on capsword
+* **CapsWord - off** - Space + turn off capsword
+
 
 
 
