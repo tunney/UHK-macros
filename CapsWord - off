@@ -1,0 +1,8 @@
+# CapsWord - off
+
+When bound key is tapped turn off CapsWord and write a space
+
+```
+holdKey space
+setReg 5 0
+```
