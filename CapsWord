@@ -1,0 +1,23 @@
+# CapsWord
+
+When bound key is pressed results in a space.
+When it is pressed with space results in CAPSWORD being activated and a space.
+
+Stays on until CapsWord - off macro
+
+I use Capsword on the left space and CapsWord - off on the right space
+
+```
+ifShift goTo 3
+ifNotShift tapKey space
+break
+tapKey space
+pressKey LS-
+setReg 5 1
+ifRegEq 5 1 goTo @0
+#at the end of macro, the shift gets released automatically
+```
+
+ 
+
+   
